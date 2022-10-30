@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @georgijcernov99
-- 👀 I’m interested in crupto
+- 👀 I’m interested in cry
+pto
 - 🌱 I’m currently learning nodes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
